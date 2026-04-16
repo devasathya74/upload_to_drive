@@ -1,0 +1,8 @@
+venv/
+credentials.json
+token.pickle
+folder_cache.json
+skip_log.txt
+uploaded_files.json
+__pycache__/
+*.pyc
